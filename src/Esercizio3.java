@@ -13,13 +13,15 @@ public class Esercizio3 {
             }
         }
 
-
+        /* per stampare e vedere se il codice funziona
         for (int i = 0; i < 3; i++) {
             for (int k = 0; k < 3; k++) {
                 System.out.print(m[i][k] + "-"); // trattino per separare le colonne
             }
             System.out.println(); // va a capo ogni volta che finisce una riga
         }
+        */
+
 
         Scanner scan = new Scanner(System.in);
 
